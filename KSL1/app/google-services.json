@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "727824383008",
+    "project_id": "khasi-sign-language-app",
+    "storage_bucket": "khasi-sign-language-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727824383008:android:39585e53880ed4dfa21045",
+        "android_client_info": {
+          "package_name": "com.example.ksl1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7n9t_btojwBlO8Gn7TYGU1kPPhUKvgEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
